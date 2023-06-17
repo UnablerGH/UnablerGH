@@ -1,4 +1,4 @@
-👋 Hello, I'm [Bartek]!
+👋 Hello, I'm **Bartek**!
 
 🧠 Machine Learning | 🤖 Artificial Intelligence | 📊 Data Science | ➕ Mathematics
 
@@ -16,6 +16,6 @@
     
 🤝 I'm always open to collaborations, discussions, and learning from others in the community. Feel free to reach out to me for any interesting projects or opportunities.
 
-✉️ You can connect with me via email at [kaczorb97@gmail.com] or find me on LinkedIn at [https://www.linkedin.com/in/bartosz-kaczor-579098242/].
+✉️ You can connect with me via email at [kaczorb97@gmail.com] or find me on LinkedIn at [Bartosz Kaczor](https://www.linkedin.com/in/bartosz-kaczor-579098242).
 
 
