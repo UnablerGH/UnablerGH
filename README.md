@@ -20,6 +20,6 @@
 ✉️ You can connect with me via email at [kaczorb97@gmail.com] or find me on LinkedIn at [Bartosz Kaczor](https://www.linkedin.com/in/bartosz-kaczor-579098242).
 
 # **Tech stack**
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,vscode,git,ai,java,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,vscode,git,java,)](https://skillicons.dev)
 
 
